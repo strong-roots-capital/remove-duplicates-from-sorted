@@ -36,6 +36,7 @@ console.log(inplaceRemoveDuplicatesFromSorted(listWithDuplicates))
 
 ## Acknowledgments
 
+- [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)
 - [fast-check]
 
 [fast-check]: https://github.com/dubzzz/fast-check
