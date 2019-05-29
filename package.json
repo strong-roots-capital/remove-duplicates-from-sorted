@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/remove-duplicates-from-sorted",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Remove duplicates from sorted list in-place",
   "main": "dist/src/remove-duplicates-from-sorted.js",
   "types": "dist/src/remove-duplicates-from-sorted.d.ts",
